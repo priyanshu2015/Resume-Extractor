@@ -1,0 +1,10 @@
+1. https://github.com/0dust/ResumeFilter
+using Deep Learning LSTM model
+2. https://github.com/OmkarPathak/ResumeParser/tree/3a431663d29d085c2fb55a4ceac52594d6c9f439
+using spacy library to find name and skills and education etc
+3. https://github.com/topics/resume-parser
+link to all repositories related to resume parser on github
+4. https://github.com/divapriya/Language_Processing/blob/master/resumeParser.py
+using normal processing
+
+
